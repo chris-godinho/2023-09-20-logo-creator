@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
-<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <polygon points="150, 25 75, 175 225, 175" fill="green"/>
-    <text x="150" y="150" font-family="Verdana" font-size="35" fill="white" text-anchor="middle" dominant-baseline="middle">SVG</text>
-  </g>
-</svg>
+        <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <polygon points="150, 25 75, 175 225, 175" fill="#0000FF"/>
+            <text x="150" y="150" font-family="Verdana" font-size="35" fill="red" text-anchor="middle" dominant-baseline="middle">CBG</text>
+          </g>
+        </svg>

@@ -4,11 +4,14 @@
   "description": "An application for generating simple logos in SVG format.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Chris Godinho",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.11"
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
